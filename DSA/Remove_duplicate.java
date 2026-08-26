@@ -17,5 +17,8 @@ public class Remove_duplicate{
             }
         }
         System.out.println("THe total unique no. in an array is: " + unique);
+        for(i=0;i<n;i++){
+            System.out.println(arr[i]);
+        }
     }
 }
